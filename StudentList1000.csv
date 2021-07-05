@@ -1,0 +1,1067 @@
+City,FutureMajor,Country,SchoolType,Grade,Email,English,Japanese,Coding
+shanghai,Philosophy,United States,University,9,Alice0000@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Canada,International high school,10,Bob0001@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Architecture,Japan,Normal high school,11,Carol0002@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Mathematics,United States,University,12,Dave0003@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Computer Science,Canada,International high school,Freshman,Eve0004@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Japan,Normal high school,Sophomore,Francis0005@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Sociology,United States,University,Junior,Grace0006@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,Canada,International high school,Senior,Hans0007@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Archaeology,Japan,Normal high school,9,Isabella0008@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,United States,University,10,Jason0009@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Mathematics,Canada,International high school,11,Kate0010@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,Japan,Normal high school,12,Louis0011@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Economy,United States,University,Freshman,Margraret0012@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Canada,International high school,Sophomore,Nathan0013@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Philosophy,Japan,Normal high school,Junior,Olivia0014@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Archaeology,United States,University,Senior,Paul0015@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Architecture,Canada,International high school,9,Queen0016@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Japan,Normal high school,10,Richard0017@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Computer Science,United States,University,11,Susan0018@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,Canada,International high school,12,Thomas0019@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Sociology,Japan,Normal high school,Freshman,Uma0020@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,United States,University,Sophomore,Vivian0021@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Archaeology,Canada,International high school,Junior,Winnie0022@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Architecture,Japan,Normal high school,Senior,Xander0023@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Mathematics,United States,University,9,Yasmine0024@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Canada,International high school,10,Zach0025@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Economy,Japan,Normal high school,11,Alice0026@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Sociology,United States,University,12,Bob0027@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Philosophy,Canada,International high school,Freshman,Carol0028@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Japan,Normal high school,Sophomore,Dave0029@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Architecture,United States,University,Junior,Eve0030@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,Canada,International high school,Senior,Francis0031@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Computer Science,Japan,Normal high school,9,Grace0032@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,United States,University,10,Hans0033@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Sociology,Canada,International high school,11,Isabella0034@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,Japan,Normal high school,12,Jason0035@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Archaeology,United States,University,Freshman,Kate0036@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Canada,International high school,Sophomore,Louis0037@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Mathematics,Japan,Normal high school,Junior,Margraret0038@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Computer Science,United States,University,Senior,Nathan0039@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Economy,Canada,International high school,9,Olivia0040@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Japan,Normal high school,10,Paul0041@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Philosophy,United States,University,11,Queen0042@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,Canada,International high school,12,Richard0043@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Architecture,Japan,Normal high school,Freshman,Susan0044@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,United States,University,Sophomore,Thomas0045@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Computer Science,Canada,International high school,Junior,Uma0046@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,Japan,Normal high school,Senior,Vivian0047@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Sociology,United States,University,9,Winnie0048@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Canada,International high school,10,Xander0049@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Archaeology,Japan,Normal high school,11,Yasmine0050@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Architecture,United States,University,12,Zach0051@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Mathematics,Canada,International high school,Freshman,Alice0052@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Japan,Normal high school,Sophomore,Bob0053@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Economy,United States,University,Junior,Carol0054@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Sociology,Canada,International high school,Senior,Dave0055@thu.edu.cn,FALSE,TRUE,FALSE
+shanghai,Philosophy,Japan,Normal high school,9,Eve0056@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,United States,University,10,Francis0057@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Architecture,Canada,International high school,11,Grace0058@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,Japan,Normal high school,12,Hans0059@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Computer Science,United States,University,Freshman,Isabella0060@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Canada,International high school,Sophomore,Jason0061@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Sociology,Japan,Normal high school,Junior,Kate0062@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,United States,University,Senior,Louis0063@thu.edu.cn,FALSE,TRUE,FALSE
+shanghai,Archaeology,Canada,International high school,9,Margraret0064@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Japan,Normal high school,10,Nathan0065@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Mathematics,United States,University,11,Olivia0066@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,Canada,International high school,12,Paul0067@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Economy,Japan,Normal high school,Freshman,Queen0068@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,United States,University,Sophomore,Richard0069@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Philosophy,Canada,International high school,Junior,Susan0070@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,Japan,Normal high school,Senior,Thomas0071@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Architecture,United States,University,9,Uma0072@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Canada,International high school,10,Vivian0073@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Computer Science,Japan,Normal high school,11,Winnie0074@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,United States,University,12,Xander0075@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Sociology,Canada,International high school,Freshman,Yasmine0076@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Japan,Normal high school,Sophomore,Zach0077@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Archaeology,United States,University,Junior,Alice0078@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,Canada,International high school,Senior,Bob0079@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Mathematics,Japan,Normal high school,9,Carol0080@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,United States,University,10,Dave0081@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Economy,Canada,International high school,11,Eve0082@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Sociology,Japan,Normal high school,12,Francis0083@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Philosophy,United States,University,Freshman,Grace0084@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Canada,International high school,Sophomore,Hans0085@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Architecture,Japan,Normal high school,Junior,Isabella0086@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,United States,University,Senior,Jason0087@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Computer Science,Canada,International high school,9,Kate0088@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Japan,Normal high school,10,Louis0089@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Sociology,United States,University,11,Margraret0090@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,Canada,International high school,12,Nathan0091@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Archaeology,Japan,Normal high school,Freshman,Olivia0092@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,United States,University,Sophomore,Paul0093@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Mathematics,Canada,International high school,Junior,Queen0094@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Computer Science,Japan,Normal high school,Senior,Richard0095@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Economy,United States,University,9,Susan0096@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Canada,International high school,10,Thomas0097@pku.edu.cn,TRUE,TRUE,FALSE
+shanxi,Philosophy,Japan,Normal high school,11,Uma0098@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,United States,University,12,Vivian0099@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Architecture,Canada,International high school,Freshman,Winnie0100@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Japan,Normal high school,Sophomore,Xander0101@pku.edu.cn,TRUE,TRUE,FALSE
+shanxi,Computer Science,United States,University,Junior,Yasmine0102@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,Canada,International high school,Senior,Zach0103@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Sociology,Japan,Normal high school,9,Alice0104@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,United States,University,10,Bob0105@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Archaeology,Canada,International high school,11,Carol0106@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,Japan,Normal high school,12,Dave0107@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Mathematics,United States,University,Freshman,Eve0108@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Canada,International high school,Sophomore,Francis0109@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Economy,Japan,Normal high school,Junior,Grace0110@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Sociology,United States,University,Senior,Hans0111@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Philosophy,Canada,International high school,9,Isabella0112@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Japan,Normal high school,10,Jason0113@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Architecture,United States,University,11,Kate0114@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,Canada,International high school,12,Louis0115@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Computer Science,Japan,Normal high school,Freshman,Margraret0116@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,United States,University,Sophomore,Nathan0117@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Sociology,Canada,International high school,Junior,Olivia0118@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,Japan,Normal high school,Senior,Paul0119@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Archaeology,United States,University,9,Queen0120@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Canada,International high school,10,Richard0121@pku.edu.cn,TRUE,TRUE,FALSE
+shanxi,Mathematics,Japan,Normal high school,11,Susan0122@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Computer Science,United States,University,12,Thomas0123@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Economy,Canada,International high school,Freshman,Uma0124@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Japan,Normal high school,Sophomore,Vivian0125@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Philosophy,United States,University,Junior,Winnie0126@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,Canada,International high school,Senior,Xander0127@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Architecture,Japan,Normal high school,9,Yasmine0128@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,United States,University,10,Zach0129@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Computer Science,Canada,International high school,11,Alice0130@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Economy,Japan,Normal high school,12,Bob0131@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Sociology,United States,University,Freshman,Carol0132@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Canada,International high school,Sophomore,Dave0133@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Archaeology,Japan,Normal high school,Junior,Eve0134@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Architecture,United States,University,Senior,Francis0135@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Mathematics,Canada,International high school,9,Grace0136@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Japan,Normal high school,10,Hans0137@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Economy,United States,University,11,Isabella0138@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Sociology,Canada,International high school,12,Jason0139@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Philosophy,Japan,Normal high school,Freshman,Kate0140@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,United States,University,Sophomore,Louis0141@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Architecture,Canada,International high school,Junior,Margraret0142@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Mathematics,Japan,Normal high school,Senior,Nathan0143@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Computer Science,United States,University,9,Olivia0144@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Canada,International high school,10,Paul0145@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Sociology,Japan,Normal high school,11,Queen0146@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Philosophy,United States,University,12,Richard0147@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Archaeology,Canada,International high school,Freshman,Susan0148@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Japan,Normal high school,Sophomore,Thomas0149@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Mathematics,United States,University,Junior,Uma0150@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Computer Science,Canada,International high school,Senior,Vivian0151@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Economy,Japan,Normal high school,9,Winnie0152@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,United States,University,10,Xander0153@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Philosophy,Canada,International high school,11,Yasmine0154@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,Japan,Normal high school,12,Zach0155@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Architecture,United States,University,Freshman,Alice0156@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Canada,International high school,Sophomore,Bob0157@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Computer Science,Japan,Normal high school,Junior,Carol0158@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,United States,University,Senior,Dave0159@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Sociology,Canada,International high school,9,Eve0160@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Japan,Normal high school,10,Francis0161@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Archaeology,United States,University,11,Grace0162@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,Canada,International high school,12,Hans0163@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Mathematics,Japan,Normal high school,Freshman,Isabella0164@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,United States,University,Sophomore,Jason0165@pku.edu.cn,TRUE,TRUE,FALSE
+shanxi,Economy,Canada,International high school,Junior,Kate0166@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Sociology,Japan,Normal high school,Senior,Louis0167@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Philosophy,United States,University,9,Margraret0168@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Canada,International high school,10,Nathan0169@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Architecture,Japan,Normal high school,11,Olivia0170@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Mathematics,United States,University,12,Paul0171@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Computer Science,Canada,International high school,Freshman,Queen0172@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Japan,Normal high school,Sophomore,Richard0173@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Sociology,United States,University,Junior,Susan0174@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,Canada,International high school,Senior,Thomas0175@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Archaeology,Japan,Normal high school,9,Uma0176@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,United States,University,10,Vivian0177@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Mathematics,Canada,International high school,11,Winnie0178@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,Japan,Normal high school,12,Xander0179@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Economy,United States,University,Freshman,Yasmine0180@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Canada,International high school,Sophomore,Zach0181@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Philosophy,Japan,Normal high school,Junior,Alice0182@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,United States,University,Senior,Bob0183@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Architecture,Canada,International high school,9,Carol0184@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Japan,Normal high school,10,Dave0185@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Computer Science,United States,University,11,Eve0186@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,Canada,International high school,12,Francis0187@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Sociology,Japan,Normal high school,Freshman,Grace0188@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,United States,University,Sophomore,Hans0189@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Archaeology,Canada,International high school,Junior,Isabella0190@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,Japan,Normal high school,Senior,Jason0191@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Mathematics,United States,University,9,Kate0192@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Canada,International high school,10,Louis0193@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Economy,Japan,Normal high school,11,Margraret0194@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Sociology,United States,University,12,Nathan0195@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Philosophy,Canada,International high school,Freshman,Olivia0196@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Japan,Normal high school,Sophomore,Paul0197@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Architecture,United States,University,Junior,Queen0198@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Mathematics,Canada,International high school,Senior,Richard0199@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Computer Science,Japan,Normal high school,9,Susan0200@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,United States,University,10,Thomas0201@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Sociology,Canada,International high school,11,Uma0202@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,Japan,Normal high school,12,Vivian0203@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Archaeology,United States,University,Freshman,Winnie0204@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Canada,International high school,Sophomore,Xander0205@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Mathematics,Japan,Normal high school,Junior,Yasmine0206@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,United States,University,Senior,Zach0207@thu.edu.cn,FALSE,TRUE,FALSE
+shanghai,Economy,Canada,International high school,9,Alice0208@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Japan,Normal high school,10,Bob0209@pku.edu.cn,TRUE,TRUE,FALSE
+shanxi,Philosophy,United States,University,11,Carol0210@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Archaeology,Canada,International high school,12,Dave0211@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Architecture,Japan,Normal high school,Freshman,Eve0212@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,United States,University,Sophomore,Francis0213@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Computer Science,Canada,International high school,Junior,Grace0214@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,Japan,Normal high school,Senior,Hans0215@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Sociology,United States,University,9,Isabella0216@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Canada,International high school,10,Jason0217@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Archaeology,Japan,Normal high school,11,Kate0218@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Architecture,United States,University,12,Louis0219@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Mathematics,Canada,International high school,Freshman,Margraret0220@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Japan,Normal high school,Sophomore,Nathan0221@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Economy,United States,University,Junior,Olivia0222@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Sociology,Canada,International high school,Senior,Paul0223@thu.edu.cn,FALSE,TRUE,FALSE
+shanghai,Philosophy,Japan,Normal high school,9,Queen0224@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,United States,University,10,Richard0225@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Architecture,Canada,International high school,11,Susan0226@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,Japan,Normal high school,12,Thomas0227@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Computer Science,United States,University,Freshman,Uma0228@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Canada,International high school,Sophomore,Vivian0229@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Sociology,Japan,Normal high school,Junior,Winnie0230@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Philosophy,United States,University,Senior,Xander0231@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Archaeology,Canada,International high school,9,Yasmine0232@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Japan,Normal high school,10,Zach0233@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Mathematics,United States,University,11,Alice0234@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,Canada,International high school,12,Bob0235@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Economy,Japan,Normal high school,Freshman,Carol0236@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,United States,University,Sophomore,Dave0237@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Philosophy,Canada,International high school,Junior,Eve0238@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Archaeology,Japan,Normal high school,Senior,Francis0239@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Architecture,United States,University,9,Grace0240@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Canada,International high school,10,Hans0241@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Computer Science,Japan,Normal high school,11,Isabella0242@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Economy,United States,University,12,Jason0243@thu.edu.cn,FALSE,TRUE,FALSE
+shanghai,Sociology,Canada,International high school,Freshman,Kate0244@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Japan,Normal high school,Sophomore,Louis0245@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Archaeology,United States,University,Junior,Margraret0246@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Architecture,Canada,International high school,Senior,Nathan0247@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Mathematics,Japan,Normal high school,9,Olivia0248@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,United States,University,10,Paul0249@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Economy,Canada,International high school,11,Queen0250@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Sociology,Japan,Normal high school,12,Richard0251@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Philosophy,United States,University,Freshman,Susan0252@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Canada,International high school,Sophomore,Thomas0253@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Architecture,Japan,Normal high school,Junior,Uma0254@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,United States,University,Senior,Vivian0255@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Computer Science,Canada,International high school,9,Winnie0256@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Japan,Normal high school,10,Xander0257@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Sociology,United States,University,11,Yasmine0258@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Philosophy,Canada,International high school,12,Zach0259@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Archaeology,Japan,Normal high school,Freshman,Alice0260@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,United States,University,Sophomore,Bob0261@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Mathematics,Canada,International high school,Junior,Carol0262@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,Japan,Normal high school,Senior,Dave0263@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Economy,United States,University,9,Eve0264@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Canada,International high school,10,Francis0265@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Philosophy,Japan,Normal high school,11,Grace0266@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Archaeology,United States,University,12,Hans0267@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Architecture,Canada,International high school,Freshman,Isabella0268@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Japan,Normal high school,Sophomore,Jason0269@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Computer Science,United States,University,Junior,Kate0270@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,Canada,International high school,Senior,Louis0271@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Sociology,Japan,Normal high school,9,Margraret0272@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,United States,University,10,Nathan0273@pku.edu.cn,FALSE,FALSE,my
+shanxi,Archaeology,Canada,International high school,11,Olivia0274@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Architecture,Japan,Normal high school,12,Paul0275@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Mathematics,United States,University,Freshman,Queen0276@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Canada,International high school,Sophomore,Richard0277@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Economy,Japan,Normal high school,Junior,Susan0278@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Sociology,United States,University,Senior,Thomas0279@thu.edu.cn,FALSE,TRUE,FALSE
+shanghai,Philosophy,Canada,International high school,9,Uma0280@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Japan,Normal high school,10,Vivian0281@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Architecture,United States,University,11,Winnie0282@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,Canada,International high school,12,Xander0283@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Computer Science,Japan,Normal high school,Freshman,Yasmine0284@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,United States,University,Sophomore,Zach0285@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Sociology,Canada,International high school,Junior,Alice0286@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Philosophy,Japan,Normal high school,Senior,Bob0287@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Archaeology,United States,University,9,Carol0288@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Canada,International high school,10,Dave0289@pku.edu.cn,TRUE,TRUE,FALSE
+shanxi,Mathematics,Japan,Normal high school,11,Eve0290@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,United States,University,12,Francis0291@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Economy,Canada,International high school,Freshman,Grace0292@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Japan,Normal high school,Sophomore,Hans0293@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Philosophy,United States,University,Junior,Isabella0294@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Archaeology,Canada,International high school,Senior,Jason0295@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Architecture,Japan,Normal high school,9,Kate0296@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,United States,University,10,Louis0297@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Computer Science,Canada,International high school,11,Margraret0298@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Economy,Japan,Normal high school,12,Nathan0299@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Sociology,United States,University,Freshman,Olivia0300@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Canada,International high school,Sophomore,Paul0301@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Archaeology,Japan,Normal high school,Junior,Queen0302@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,United States,University,Senior,Richard0303@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Mathematics,Canada,International high school,9,Susan0304@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Japan,Normal high school,10,Thomas0305@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Economy,United States,University,11,Uma0306@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Sociology,Canada,International high school,12,Vivian0307@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Philosophy,Japan,Normal high school,Freshman,Winnie0308@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,United States,University,Sophomore,Xander0309@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Architecture,Canada,International high school,Junior,Yasmine0310@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,Japan,Normal high school,Senior,Zach0311@thu.edu.cn,FALSE,TRUE,my
+shanghai,Computer Science,United States,University,9,Alice0312@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Canada,International high school,10,Bob0313@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Sociology,Japan,Normal high school,11,Carol0314@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Philosophy,United States,University,12,Dave0315@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Archaeology,Canada,International high school,Freshman,Eve0316@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Japan,Normal high school,Sophomore,Francis0317@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Mathematics,United States,University,Junior,Grace0318@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,Canada,International high school,Senior,Hans0319@thu.edu.cn,FALSE,TRUE,FALSE
+shanghai,Economy,Japan,Normal high school,9,Isabella0320@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,United States,University,10,Jason0321@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Philosophy,Canada,International high school,11,Kate0322@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,Japan,Normal high school,12,Louis0323@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Architecture,United States,University,Freshman,Margraret0324@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Canada,International high school,Sophomore,Nathan0325@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Computer Science,Japan,Normal high school,Junior,Olivia0326@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Economy,United States,University,Senior,Paul0327@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Sociology,Canada,International high school,9,Queen0328@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Japan,Normal high school,10,Richard0329@pku.edu.cn,FALSE,TRUE,my
+shanxi,Archaeology,United States,University,11,Susan0330@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,Canada,International high school,12,Thomas0331@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Mathematics,Japan,Normal high school,Freshman,Uma0332@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,United States,University,Sophomore,Vivian0333@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Economy,Canada,International high school,Junior,Winnie0334@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Sociology,Japan,Normal high school,Senior,Xander0335@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Philosophy,United States,University,9,Yasmine0336@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Canada,International high school,10,Zach0337@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Architecture,Japan,Normal high school,11,Alice0338@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Mathematics,United States,University,12,Bob0339@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Computer Science,Canada,International high school,Freshman,Carol0340@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Japan,Normal high school,Sophomore,Dave0341@pku.edu.cn,FALSE,TRUE,omy
+shanxi,Sociology,United States,University,Junior,Eve0342@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,Canada,International high school,Senior,Francis0343@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Archaeology,Japan,Normal high school,9,Grace0344@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,United States,University,10,Hans0345@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Mathematics,Canada,International high school,11,Isabella0346@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,Japan,Normal high school,12,Jason0347@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Economy,United States,University,Freshman,Kate0348@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Canada,International high school,Sophomore,Louis0349@pku.edu.cn,TRUE,FALSE,omy
+shanxi,Philosophy,Japan,Normal high school,Junior,Margraret0350@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,United States,University,Senior,Nathan0351@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Architecture,Canada,International high school,9,Olivia0352@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Japan,Normal high school,10,Paul0353@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Computer Science,United States,University,11,Queen0354@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,Canada,International high school,12,Richard0355@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Sociology,Japan,Normal high school,Freshman,Susan0356@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,United States,University,Sophomore,Thomas0357@pku.edu.cn,TRUE,FALSE,my
+shanxi,Archaeology,Canada,International high school,Junior,Uma0358@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Architecture,Japan,Normal high school,Senior,Vivian0359@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Mathematics,United States,University,9,Winnie0360@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Canada,International high school,10,Xander0361@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Economy,Japan,Normal high school,11,Yasmine0362@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Sociology,United States,University,12,Zach0363@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Philosophy,Canada,International high school,Freshman,Alice0364@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Japan,Normal high school,Sophomore,Bob0365@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Architecture,United States,University,Junior,Carol0366@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,Canada,International high school,Senior,Dave0367@thu.edu.cn,FALSE,TRUE,FALSE
+shanghai,Computer Science,Japan,Normal high school,9,Eve0368@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,United States,University,10,Francis0369@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Sociology,Canada,International high school,11,Grace0370@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,Japan,Normal high school,12,Hans0371@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Archaeology,United States,University,Freshman,Isabella0372@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Canada,International high school,Sophomore,Jason0373@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Mathematics,Japan,Normal high school,Junior,Kate0374@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,United States,University,Senior,Louis0375@thu.edu.cn,FALSE,FALSE,omy
+shanghai,Economy,Canada,International high school,9,Margraret0376@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Japan,Normal high school,10,Nathan0377@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Philosophy,United States,University,11,Olivia0378@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,Canada,International high school,12,Paul0379@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Architecture,Japan,Normal high school,Freshman,Queen0380@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,United States,University,Sophomore,Richard0381@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Computer Science,Canada,International high school,Junior,Susan0382@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,Japan,Normal high school,Senior,Thomas0383@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Sociology,United States,University,9,Uma0384@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Canada,International high school,10,Vivian0385@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Archaeology,Japan,Normal high school,11,Winnie0386@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,United States,University,12,Xander0387@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Mathematics,Canada,International high school,Freshman,Yasmine0388@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Japan,Normal high school,Sophomore,Zach0389@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Economy,United States,University,Junior,Alice0390@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Sociology,Canada,International high school,Senior,Bob0391@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Philosophy,Japan,Normal high school,9,Carol0392@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,United States,University,10,Dave0393@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Architecture,Canada,International high school,11,Eve0394@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,Japan,Normal high school,12,Francis0395@thu.edu.cn,FALSE,FALSE,my
+shanghai,Computer Science,United States,University,Freshman,Grace0396@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Canada,International high school,Sophomore,Hans0397@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Sociology,Japan,Normal high school,Junior,Isabella0398@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Philosophy,United States,University,Senior,Jason0399@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Archaeology,Canada,International high school,9,Kate0400@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Japan,Normal high school,10,Louis0401@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Mathematics,United States,University,11,Margraret0402@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,Canada,International high school,12,Nathan0403@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Economy,Japan,Normal high school,Freshman,Olivia0404@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,United States,University,Sophomore,Paul0405@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Philosophy,Canada,International high school,Junior,Queen0406@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Archaeology,Japan,Normal high school,Senior,Richard0407@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Architecture,United States,University,9,Susan0408@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Canada,International high school,10,Thomas0409@pku.edu.cn,TRUE,TRUE,FALSE
+shanxi,Computer Science,Japan,Normal high school,11,Uma0410@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,United States,University,12,Vivian0411@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Sociology,Canada,International high school,Freshman,Winnie0412@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Japan,Normal high school,Sophomore,Xander0413@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Archaeology,United States,University,Junior,Yasmine0414@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,Canada,International high school,Senior,Zach0415@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Mathematics,Japan,Normal high school,9,Alice0416@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,United States,University,10,Bob0417@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Economy,Canada,International high school,11,Carol0418@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Sociology,Japan,Normal high school,12,Dave0419@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Philosophy,United States,University,Freshman,Eve0420@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Canada,International high school,Sophomore,Francis0421@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Architecture,Japan,Normal high school,Junior,Grace0422@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Mathematics,United States,University,Senior,Hans0423@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Computer Science,Canada,International high school,9,Isabella0424@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Japan,Normal high school,10,Jason0425@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Sociology,United States,University,11,Kate0426@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,Canada,International high school,12,Louis0427@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Archaeology,Japan,Normal high school,Freshman,Margraret0428@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,United States,University,Sophomore,Nathan0429@pku.edu.cn,TRUE,TRUE,omy
+shanxi,Mathematics,Canada,International high school,Junior,Olivia0430@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,Japan,Normal high school,Senior,Paul0431@thu.edu.cn,TRUE,TRUE,omy
+shanghai,Economy,United States,University,9,Queen0432@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Canada,International high school,10,Richard0433@pku.edu.cn,FALSE,FALSE,omy
+shanxi,Philosophy,Japan,Normal high school,11,Susan0434@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,United States,University,12,Thomas0435@thu.edu.cn,FALSE,TRUE,FALSE
+shanghai,Architecture,Canada,International high school,Freshman,Uma0436@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Japan,Normal high school,Sophomore,Vivian0437@pku.edu.cn,FALSE,FALSE,omy
+shanxi,Computer Science,United States,University,Junior,Winnie0438@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Economy,Canada,International high school,Senior,Xander0439@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Sociology,Japan,Normal high school,9,Yasmine0440@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,United States,University,10,Zach0441@pku.edu.cn,FALSE,TRUE,my
+shanxi,Archaeology,Canada,International high school,11,Alice0442@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,Japan,Normal high school,12,Bob0443@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Mathematics,United States,University,Freshman,Carol0444@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Canada,International high school,Sophomore,Dave0445@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Economy,Japan,Normal high school,Junior,Eve0446@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Sociology,United States,University,Senior,Francis0447@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Philosophy,Canada,International high school,9,Grace0448@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Japan,Normal high school,10,Hans0449@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Architecture,United States,University,11,Isabella0450@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Mathematics,Canada,International high school,12,Jason0451@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Computer Science,Japan,Normal high school,Freshman,Kate0452@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,United States,University,Sophomore,Louis0453@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Sociology,Canada,International high school,Junior,Margraret0454@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,Japan,Normal high school,Senior,Nathan0455@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Archaeology,United States,University,9,Olivia0456@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Canada,International high school,10,Paul0457@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Mathematics,Japan,Normal high school,11,Queen0458@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,United States,University,12,Richard0459@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Economy,Canada,International high school,Freshman,Susan0460@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Japan,Normal high school,Sophomore,Thomas0461@pku.edu.cn,TRUE,TRUE,omy
+shanxi,Philosophy,United States,University,Junior,Uma0462@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Archaeology,Canada,International high school,Senior,Vivian0463@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Architecture,Japan,Normal high school,9,Winnie0464@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,United States,University,10,Xander0465@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Computer Science,Canada,International high school,11,Yasmine0466@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,Japan,Normal high school,12,Zach0467@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Sociology,United States,University,Freshman,Alice0468@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Canada,International high school,Sophomore,Bob0469@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Archaeology,Japan,Normal high school,Junior,Carol0470@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Architecture,United States,University,Senior,Dave0471@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Mathematics,Canada,International high school,9,Eve0472@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Japan,Normal high school,10,Francis0473@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Economy,United States,University,11,Grace0474@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Sociology,Canada,International high school,12,Hans0475@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Philosophy,Japan,Normal high school,Freshman,Isabella0476@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,United States,University,Sophomore,Jason0477@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Architecture,Canada,International high school,Junior,Kate0478@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,Japan,Normal high school,Senior,Louis0479@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Computer Science,United States,University,9,Margraret0480@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Canada,International high school,10,Nathan0481@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Sociology,Japan,Normal high school,11,Olivia0482@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Philosophy,United States,University,12,Paul0483@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Archaeology,Canada,International high school,Freshman,Queen0484@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Japan,Normal high school,Sophomore,Richard0485@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Mathematics,United States,University,Junior,Susan0486@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,Canada,International high school,Senior,Thomas0487@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Economy,Japan,Normal high school,9,Uma0488@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,United States,University,10,Vivian0489@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Philosophy,Canada,International high school,11,Winnie0490@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,Japan,Normal high school,12,Xander0491@thu.edu.cn,TRUE,FALSE,omy
+shanghai,Architecture,United States,University,Freshman,Yasmine0492@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Canada,International high school,Sophomore,Zach0493@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Computer Science,Japan,Normal high school,Junior,Alice0494@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Economy,United States,University,Senior,Bob0495@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Sociology,Canada,International high school,9,Carol0496@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Japan,Normal high school,10,Dave0497@pku.edu.cn,TRUE,FALSE,my
+shanxi,Archaeology,United States,University,11,Eve0498@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,Canada,International high school,12,Francis0499@thu.edu.cn,TRUE,TRUE,my
+shanghai,Mathematics,Japan,Normal high school,Freshman,Grace0500@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,United States,University,Sophomore,Hans0501@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Economy,Canada,International high school,Junior,Isabella0502@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Sociology,Japan,Normal high school,Senior,Jason0503@thu.edu.cn,FALSE,TRUE,FALSE
+shanghai,Philosophy,United States,University,9,Kate0504@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Canada,International high school,10,Louis0505@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Architecture,Japan,Normal high school,11,Margraret0506@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,United States,University,12,Nathan0507@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Computer Science,Canada,International high school,Freshman,Olivia0508@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Japan,Normal high school,Sophomore,Paul0509@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Sociology,United States,University,Junior,Queen0510@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,Canada,International high school,Senior,Richard0511@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Archaeology,Japan,Normal high school,9,Susan0512@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,United States,University,10,Thomas0513@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Mathematics,Canada,International high school,11,Uma0514@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,Japan,Normal high school,12,Vivian0515@thu.edu.cn,FALSE,TRUE,omy
+shanghai,Economy,United States,University,Freshman,Winnie0516@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Canada,International high school,Sophomore,Xander0517@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Philosophy,Japan,Normal high school,Junior,Yasmine0518@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Archaeology,United States,University,Senior,Zach0519@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Architecture,Canada,International high school,9,Alice0520@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Japan,Normal high school,10,Bob0521@pku.edu.cn,TRUE,TRUE,omy
+shanxi,Computer Science,United States,University,11,Carol0522@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Economy,Canada,International high school,12,Dave0523@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Sociology,Japan,Normal high school,Freshman,Eve0524@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,United States,University,Sophomore,Francis0525@pku.edu.cn,FALSE,TRUE,my
+shanxi,Archaeology,Canada,International high school,Junior,Grace0526@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Architecture,Japan,Normal high school,Senior,Hans0527@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Mathematics,United States,University,9,Isabella0528@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Canada,International high school,10,Jason0529@pku.edu.cn,TRUE,TRUE,FALSE
+shanxi,Economy,Japan,Normal high school,11,Kate0530@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Sociology,United States,University,12,Louis0531@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Philosophy,Canada,International high school,Freshman,Margraret0532@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Japan,Normal high school,Sophomore,Nathan0533@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Architecture,United States,University,Junior,Olivia0534@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,Canada,International high school,Senior,Paul0535@thu.edu.cn,FALSE,FALSE,my
+shanghai,Computer Science,Japan,Normal high school,9,Queen0536@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,United States,University,10,Richard0537@pku.edu.cn,TRUE,TRUE,FALSE
+shanxi,Sociology,Canada,International high school,11,Susan0538@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,Japan,Normal high school,12,Thomas0539@thu.edu.cn,FALSE,TRUE,FALSE
+shanghai,Archaeology,United States,University,Freshman,Uma0540@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Canada,International high school,Sophomore,Vivian0541@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Mathematics,Japan,Normal high school,Junior,Winnie0542@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,United States,University,Senior,Xander0543@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Economy,Canada,International high school,9,Yasmine0544@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Japan,Normal high school,10,Zach0545@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Philosophy,United States,University,11,Alice0546@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Archaeology,Canada,International high school,12,Bob0547@thu.edu.cn,FALSE,FALSE,omy
+shanghai,Architecture,Japan,Normal high school,Freshman,Carol0548@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,United States,University,Sophomore,Dave0549@pku.edu.cn,TRUE,TRUE,FALSE
+shanxi,Computer Science,Canada,International high school,Junior,Eve0550@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,Japan,Normal high school,Senior,Francis0551@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Sociology,United States,University,9,Grace0552@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Canada,International high school,10,Hans0553@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Archaeology,Japan,Normal high school,11,Isabella0554@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,United States,University,12,Jason0555@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Mathematics,Canada,International high school,Freshman,Kate0556@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Japan,Normal high school,Sophomore,Louis0557@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Economy,United States,University,Junior,Margraret0558@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Sociology,Canada,International high school,Senior,Nathan0559@thu.edu.cn,FALSE,TRUE,my
+shanghai,Philosophy,Japan,Normal high school,9,Olivia0560@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,United States,University,10,Paul0561@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Architecture,Canada,International high school,11,Queen0562@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,Japan,Normal high school,12,Richard0563@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Computer Science,United States,University,Freshman,Susan0564@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Canada,International high school,Sophomore,Thomas0565@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Sociology,Japan,Normal high school,Junior,Uma0566@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Philosophy,United States,University,Senior,Vivian0567@thu.edu.cn,TRUE,TRUE,omy
+shanghai,Archaeology,Canada,International high school,9,Winnie0568@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Japan,Normal high school,10,Xander0569@pku.edu.cn,TRUE,TRUE,FALSE
+shanxi,Mathematics,United States,University,11,Yasmine0570@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Computer Science,Canada,International high school,12,Zach0571@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Economy,Japan,Normal high school,Freshman,Alice0572@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,United States,University,Sophomore,Bob0573@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Philosophy,Canada,International high school,Junior,Carol0574@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,Japan,Normal high school,Senior,Dave0575@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Architecture,United States,University,9,Eve0576@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Canada,International high school,10,Francis0577@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Computer Science,Japan,Normal high school,11,Grace0578@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,United States,University,12,Hans0579@thu.edu.cn,TRUE,TRUE,my
+shanghai,Sociology,Canada,International high school,Freshman,Isabella0580@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Japan,Normal high school,Sophomore,Jason0581@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Archaeology,United States,University,Junior,Kate0582@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,Canada,International high school,Senior,Louis0583@thu.edu.cn,TRUE,TRUE,my
+shanghai,Mathematics,Japan,Normal high school,9,Margraret0584@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,United States,University,10,Nathan0585@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Economy,Canada,International high school,11,Olivia0586@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Sociology,Japan,Normal high school,12,Paul0587@thu.edu.cn,FALSE,TRUE,FALSE
+shanghai,Philosophy,United States,University,Freshman,Queen0588@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Canada,International high school,Sophomore,Richard0589@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Architecture,Japan,Normal high school,Junior,Susan0590@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Mathematics,United States,University,Senior,Thomas0591@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Computer Science,Canada,International high school,9,Uma0592@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Japan,Normal high school,10,Vivian0593@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Sociology,United States,University,11,Winnie0594@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,Canada,International high school,12,Xander0595@thu.edu.cn,FALSE,FALSE,omy
+shanghai,Archaeology,Japan,Normal high school,Freshman,Yasmine0596@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,United States,University,Sophomore,Zach0597@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Mathematics,Canada,International high school,Junior,Alice0598@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Computer Science,Japan,Normal high school,Senior,Bob0599@thu.edu.cn,FALSE,TRUE,omy
+shanghai,Economy,United States,University,9,Carol0600@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Canada,International high school,10,Dave0601@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Philosophy,Japan,Normal high school,11,Eve0602@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,United States,University,12,Francis0603@thu.edu.cn,FALSE,TRUE,FALSE
+shanghai,Architecture,Canada,International high school,Freshman,Grace0604@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Japan,Normal high school,Sophomore,Hans0605@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Computer Science,United States,University,Junior,Isabella0606@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,Canada,International high school,Senior,Jason0607@thu.edu.cn,FALSE,TRUE,FALSE
+shanghai,Sociology,Japan,Normal high school,9,Kate0608@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,United States,University,10,Louis0609@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Archaeology,Canada,International high school,11,Margraret0610@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,Japan,Normal high school,12,Nathan0611@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Mathematics,United States,University,Freshman,Olivia0612@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Canada,International high school,Sophomore,Paul0613@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Economy,Japan,Normal high school,Junior,Queen0614@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Sociology,United States,University,Senior,Richard0615@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Philosophy,Canada,International high school,9,Susan0616@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Japan,Normal high school,10,Thomas0617@pku.edu.cn,TRUE,FALSE,my
+shanxi,Architecture,United States,University,11,Uma0618@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Mathematics,Canada,International high school,12,Vivian0619@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Computer Science,Japan,Normal high school,Freshman,Winnie0620@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,United States,University,Sophomore,Xander0621@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Sociology,Canada,International high school,Junior,Yasmine0622@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,Japan,Normal high school,Senior,Zach0623@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Archaeology,United States,University,9,Alice0624@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Canada,International high school,10,Bob0625@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Mathematics,Japan,Normal high school,11,Carol0626@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,United States,University,12,Dave0627@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Economy,Canada,International high school,Freshman,Eve0628@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Japan,Normal high school,Sophomore,Francis0629@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Philosophy,United States,University,Junior,Grace0630@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Archaeology,Canada,International high school,Senior,Hans0631@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Architecture,Japan,Normal high school,9,Isabella0632@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,United States,University,10,Jason0633@pku.edu.cn,FALSE,TRUE,omy
+shanxi,Computer Science,Canada,International high school,11,Kate0634@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,Japan,Normal high school,12,Louis0635@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Sociology,United States,University,Freshman,Margraret0636@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Canada,International high school,Sophomore,Nathan0637@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Archaeology,Japan,Normal high school,Junior,Olivia0638@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,United States,University,Senior,Paul0639@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Mathematics,Canada,International high school,9,Queen0640@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Japan,Normal high school,10,Richard0641@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Economy,United States,University,11,Susan0642@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Sociology,Canada,International high school,12,Thomas0643@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Philosophy,Japan,Normal high school,Freshman,Uma0644@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,United States,University,Sophomore,Vivian0645@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Architecture,Canada,International high school,Junior,Winnie0646@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Mathematics,Japan,Normal high school,Senior,Xander0647@thu.edu.cn,TRUE,FALSE,my
+shanghai,Computer Science,United States,University,9,Yasmine0648@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Canada,International high school,10,Zach0649@pku.edu.cn,TRUE,FALSE,omy
+shanxi,Sociology,Japan,Normal high school,11,Alice0650@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,United States,University,12,Bob0651@thu.edu.cn,FALSE,FALSE,omy
+shanghai,Archaeology,Canada,International high school,Freshman,Carol0652@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Japan,Normal high school,Sophomore,Dave0653@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Mathematics,United States,University,Junior,Eve0654@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Computer Science,Canada,International high school,Senior,Francis0655@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Economy,Japan,Normal high school,9,Grace0656@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,United States,University,10,Hans0657@pku.edu.cn,TRUE,TRUE,FALSE
+shanxi,Philosophy,Canada,International high school,11,Isabella0658@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,Japan,Normal high school,12,Jason0659@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Architecture,United States,University,Freshman,Kate0660@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Canada,International high school,Sophomore,Louis0661@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Computer Science,Japan,Normal high school,Junior,Margraret0662@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,United States,University,Senior,Nathan0663@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Sociology,Canada,International high school,9,Olivia0664@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Japan,Normal high school,10,Paul0665@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Archaeology,United States,University,11,Queen0666@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Architecture,Canada,International high school,12,Richard0667@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Mathematics,Japan,Normal high school,Freshman,Susan0668@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,United States,University,Sophomore,Thomas0669@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Economy,Canada,International high school,Junior,Uma0670@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Sociology,Japan,Normal high school,Senior,Vivian0671@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Philosophy,United States,University,9,Winnie0672@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Canada,International high school,10,Xander0673@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Architecture,Japan,Normal high school,11,Yasmine0674@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,United States,University,12,Zach0675@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Computer Science,Canada,International high school,Freshman,Alice0676@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Japan,Normal high school,Sophomore,Bob0677@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Sociology,United States,University,Junior,Carol0678@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,Canada,International high school,Senior,Dave0679@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Archaeology,Japan,Normal high school,9,Eve0680@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,United States,University,10,Francis0681@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Mathematics,Canada,International high school,11,Grace0682@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Computer Science,Japan,Normal high school,12,Hans0683@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Economy,United States,University,Freshman,Isabella0684@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Canada,International high school,Sophomore,Jason0685@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Philosophy,Japan,Normal high school,Junior,Kate0686@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,United States,University,Senior,Louis0687@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Architecture,Canada,International high school,9,Margraret0688@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Japan,Normal high school,10,Nathan0689@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Computer Science,United States,University,11,Olivia0690@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Economy,Canada,International high school,12,Paul0691@thu.edu.cn,TRUE,TRUE,my
+shanghai,Sociology,Japan,Normal high school,Freshman,Queen0692@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,United States,University,Sophomore,Richard0693@pku.edu.cn,TRUE,TRUE,FALSE
+shanxi,Archaeology,Canada,International high school,Junior,Susan0694@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,Japan,Normal high school,Senior,Thomas0695@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Mathematics,United States,University,9,Uma0696@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Canada,International high school,10,Vivian0697@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Economy,Japan,Normal high school,11,Winnie0698@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Sociology,United States,University,12,Xander0699@thu.edu.cn,FALSE,TRUE,FALSE
+shanghai,Philosophy,Canada,International high school,Freshman,Yasmine0700@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Japan,Normal high school,Sophomore,Zach0701@pku.edu.cn,TRUE,FALSE,my
+shanxi,Architecture,United States,University,Junior,Alice0702@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,Canada,International high school,Senior,Bob0703@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Computer Science,Japan,Normal high school,9,Carol0704@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,United States,University,10,Dave0705@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Sociology,Canada,International high school,11,Eve0706@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,Japan,Normal high school,12,Francis0707@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Archaeology,United States,University,Freshman,Grace0708@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Canada,International high school,Sophomore,Hans0709@pku.edu.cn,TRUE,FALSE,omy
+shanxi,Mathematics,Japan,Normal high school,Junior,Isabella0710@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,United States,University,Senior,Jason0711@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Economy,Canada,International high school,9,Kate0712@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Japan,Normal high school,10,Louis0713@pku.edu.cn,TRUE,TRUE,FALSE
+shanxi,Philosophy,United States,University,11,Margraret0714@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,Canada,International high school,12,Nathan0715@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Architecture,Japan,Normal high school,Freshman,Olivia0716@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,United States,University,Sophomore,Paul0717@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Computer Science,Canada,International high school,Junior,Queen0718@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,Japan,Normal high school,Senior,Richard0719@thu.edu.cn,TRUE,TRUE,my
+shanghai,Sociology,United States,University,9,Susan0720@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Canada,International high school,10,Thomas0721@pku.edu.cn,FALSE,FALSE,my
+shanxi,Archaeology,Japan,Normal high school,11,Uma0722@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,United States,University,12,Vivian0723@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Mathematics,Canada,International high school,Freshman,Winnie0724@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Japan,Normal high school,Sophomore,Xander0725@pku.edu.cn,TRUE,FALSE,my
+shanxi,Economy,United States,University,Junior,Yasmine0726@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Sociology,Canada,International high school,Senior,Zach0727@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Philosophy,Japan,Normal high school,9,Alice0728@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,United States,University,10,Bob0729@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Architecture,Canada,International high school,11,Carol0730@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,Japan,Normal high school,12,Dave0731@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Computer Science,United States,University,Freshman,Eve0732@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Canada,International high school,Sophomore,Francis0733@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Sociology,Japan,Normal high school,Junior,Grace0734@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Philosophy,United States,University,Senior,Hans0735@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Archaeology,Canada,International high school,9,Isabella0736@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Japan,Normal high school,10,Jason0737@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Mathematics,United States,University,11,Kate0738@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,Canada,International high school,12,Louis0739@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Economy,Japan,Normal high school,Freshman,Margraret0740@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,United States,University,Sophomore,Nathan0741@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Philosophy,Canada,International high school,Junior,Olivia0742@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,Japan,Normal high school,Senior,Paul0743@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Architecture,United States,University,9,Queen0744@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Canada,International high school,10,Richard0745@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Computer Science,Japan,Normal high school,11,Susan0746@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,United States,University,12,Thomas0747@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Sociology,Canada,International high school,Freshman,Uma0748@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Japan,Normal high school,Sophomore,Vivian0749@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Archaeology,United States,University,Junior,Winnie0750@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,Canada,International high school,Senior,Xander0751@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Mathematics,Japan,Normal high school,9,Yasmine0752@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,United States,University,10,Zach0753@pku.edu.cn,TRUE,TRUE,FALSE
+shanxi,Economy,Canada,International high school,11,Alice0754@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Sociology,Japan,Normal high school,12,Bob0755@thu.edu.cn,FALSE,TRUE,my
+shanghai,Philosophy,United States,University,Freshman,Carol0756@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Canada,International high school,Sophomore,Dave0757@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Architecture,Japan,Normal high school,Junior,Eve0758@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,United States,University,Senior,Francis0759@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Computer Science,Canada,International high school,9,Grace0760@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Japan,Normal high school,10,Hans0761@pku.edu.cn,FALSE,TRUE,omy
+shanxi,Sociology,United States,University,11,Isabella0762@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Philosophy,Canada,International high school,12,Jason0763@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Archaeology,Japan,Normal high school,Freshman,Kate0764@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,United States,University,Sophomore,Louis0765@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Mathematics,Canada,International high school,Junior,Margraret0766@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,Japan,Normal high school,Senior,Nathan0767@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Economy,United States,University,9,Olivia0768@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Canada,International high school,10,Paul0769@pku.edu.cn,TRUE,TRUE,omy
+shanxi,Philosophy,Japan,Normal high school,11,Queen0770@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,United States,University,12,Richard0771@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Architecture,Canada,International high school,Freshman,Susan0772@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Japan,Normal high school,Sophomore,Thomas0773@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Computer Science,United States,University,Junior,Uma0774@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,Canada,International high school,Senior,Vivian0775@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Sociology,Japan,Normal high school,9,Winnie0776@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,United States,University,10,Xander0777@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Archaeology,Canada,International high school,11,Yasmine0778@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,Japan,Normal high school,12,Zach0779@thu.edu.cn,TRUE,TRUE,my
+shanghai,Mathematics,United States,University,Freshman,Alice0780@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Canada,International high school,Sophomore,Bob0781@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Economy,Japan,Normal high school,Junior,Carol0782@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Sociology,United States,University,Senior,Dave0783@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Philosophy,Canada,International high school,9,Eve0784@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Japan,Normal high school,10,Francis0785@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Architecture,United States,University,11,Grace0786@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,Canada,International high school,12,Hans0787@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Computer Science,Japan,Normal high school,Freshman,Isabella0788@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,United States,University,Sophomore,Jason0789@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Sociology,Canada,International high school,Junior,Kate0790@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Philosophy,Japan,Normal high school,Senior,Louis0791@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Archaeology,United States,University,9,Margraret0792@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Canada,International high school,10,Nathan0793@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Mathematics,Japan,Normal high school,11,Olivia0794@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Computer Science,United States,University,12,Paul0795@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Economy,Canada,International high school,Freshman,Queen0796@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Japan,Normal high school,Sophomore,Richard0797@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Philosophy,United States,University,Junior,Susan0798@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,Canada,International high school,Senior,Thomas0799@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Architecture,Japan,Normal high school,9,Uma0800@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,United States,University,10,Vivian0801@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Computer Science,Canada,International high school,11,Winnie0802@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Economy,Japan,Normal high school,12,Xander0803@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Sociology,United States,University,Freshman,Yasmine0804@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Canada,International high school,Sophomore,Zach0805@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Archaeology,Japan,Normal high school,Junior,Alice0806@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,United States,University,Senior,Bob0807@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Mathematics,Canada,International high school,9,Carol0808@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Japan,Normal high school,10,Dave0809@pku.edu.cn,FALSE,TRUE,my
+shanxi,Economy,United States,University,11,Eve0810@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Sociology,Canada,International high school,12,Francis0811@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Philosophy,Japan,Normal high school,Freshman,Grace0812@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,United States,University,Sophomore,Hans0813@pku.edu.cn,FALSE,TRUE,my
+shanxi,Architecture,Canada,International high school,Junior,Isabella0814@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,Japan,Normal high school,Senior,Jason0815@thu.edu.cn,FALSE,TRUE,my
+shanghai,Computer Science,United States,University,9,Kate0816@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Canada,International high school,10,Louis0817@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Sociology,Japan,Normal high school,11,Margraret0818@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Philosophy,United States,University,12,Nathan0819@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Archaeology,Canada,International high school,Freshman,Olivia0820@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Japan,Normal high school,Sophomore,Paul0821@pku.edu.cn,TRUE,TRUE,omy
+shanxi,Mathematics,United States,University,Junior,Queen0822@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Computer Science,Canada,International high school,Senior,Richard0823@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Economy,Japan,Normal high school,9,Susan0824@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,United States,University,10,Thomas0825@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Philosophy,Canada,International high school,11,Uma0826@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,Japan,Normal high school,12,Vivian0827@thu.edu.cn,TRUE,FALSE,omy
+shanghai,Architecture,United States,University,Freshman,Winnie0828@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Canada,International high school,Sophomore,Xander0829@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Computer Science,Japan,Normal high school,Junior,Yasmine0830@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,United States,University,Senior,Zach0831@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Sociology,Canada,International high school,9,Alice0832@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Japan,Normal high school,10,Bob0833@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Archaeology,United States,University,11,Carol0834@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,Canada,International high school,12,Dave0835@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Mathematics,Japan,Normal high school,Freshman,Eve0836@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,United States,University,Sophomore,Francis0837@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Economy,Canada,International high school,Junior,Grace0838@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Sociology,Japan,Normal high school,Senior,Hans0839@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Philosophy,United States,University,9,Isabella0840@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Canada,International high school,10,Jason0841@pku.edu.cn,FALSE,TRUE,my
+shanxi,Architecture,Japan,Normal high school,11,Kate0842@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,United States,University,12,Louis0843@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Computer Science,Canada,International high school,Freshman,Margraret0844@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Japan,Normal high school,Sophomore,Nathan0845@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Sociology,United States,University,Junior,Olivia0846@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Philosophy,Canada,International high school,Senior,Paul0847@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Archaeology,Japan,Normal high school,9,Queen0848@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,United States,University,10,Richard0849@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Mathematics,Canada,International high school,11,Susan0850@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,Japan,Normal high school,12,Thomas0851@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Economy,United States,University,Freshman,Uma0852@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Canada,International high school,Sophomore,Vivian0853@pku.edu.cn,TRUE,FALSE,omy
+shanxi,Philosophy,Japan,Normal high school,Junior,Winnie0854@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Archaeology,United States,University,Senior,Xander0855@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Architecture,Canada,International high school,9,Yasmine0856@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Japan,Normal high school,10,Zach0857@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Computer Science,United States,University,11,Alice0858@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Economy,Canada,International high school,12,Bob0859@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Sociology,Japan,Normal high school,Freshman,Carol0860@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,United States,University,Sophomore,Dave0861@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Archaeology,Canada,International high school,Junior,Eve0862@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,Japan,Normal high school,Senior,Francis0863@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Mathematics,United States,University,9,Grace0864@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Canada,International high school,10,Hans0865@pku.edu.cn,FALSE,FALSE,my
+shanxi,Economy,Japan,Normal high school,11,Isabella0866@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Sociology,United States,University,12,Jason0867@thu.edu.cn,FALSE,TRUE,FALSE
+shanghai,Philosophy,Canada,International high school,Freshman,Kate0868@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Japan,Normal high school,Sophomore,Louis0869@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Architecture,United States,University,Junior,Margraret0870@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,Canada,International high school,Senior,Nathan0871@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Computer Science,Japan,Normal high school,9,Olivia0872@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,United States,University,10,Paul0873@pku.edu.cn,TRUE,TRUE,FALSE
+shanxi,Sociology,Canada,International high school,11,Queen0874@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Philosophy,Japan,Normal high school,12,Richard0875@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Archaeology,United States,University,Freshman,Susan0876@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Canada,International high school,Sophomore,Thomas0877@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Mathematics,Japan,Normal high school,Junior,Uma0878@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Computer Science,United States,University,Senior,Vivian0879@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Economy,Canada,International high school,9,Winnie0880@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Japan,Normal high school,10,Xander0881@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Philosophy,United States,University,11,Yasmine0882@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Archaeology,Canada,International high school,12,Zach0883@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Architecture,Japan,Normal high school,Freshman,Alice0884@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,United States,University,Sophomore,Bob0885@pku.edu.cn,TRUE,FALSE,omy
+shanxi,Computer Science,Canada,International high school,Junior,Carol0886@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Economy,Japan,Normal high school,Senior,Dave0887@thu.edu.cn,FALSE,TRUE,my
+shanghai,Sociology,United States,University,9,Eve0888@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Canada,International high school,10,Francis0889@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Archaeology,Japan,Normal high school,11,Grace0890@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,United States,University,12,Hans0891@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Mathematics,Canada,International high school,Freshman,Isabella0892@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Japan,Normal high school,Sophomore,Jason0893@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Economy,United States,University,Junior,Kate0894@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Sociology,Canada,International high school,Senior,Louis0895@thu.edu.cn,FALSE,TRUE,FALSE
+shanghai,Philosophy,Japan,Normal high school,9,Margraret0896@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,United States,University,10,Nathan0897@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Architecture,Canada,International high school,11,Olivia0898@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Mathematics,Japan,Normal high school,12,Paul0899@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Computer Science,United States,University,Freshman,Queen0900@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Canada,International high school,Sophomore,Richard0901@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Sociology,Japan,Normal high school,Junior,Susan0902@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,United States,University,Senior,Thomas0903@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Archaeology,Canada,International high school,9,Uma0904@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Japan,Normal high school,10,Vivian0905@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Mathematics,United States,University,11,Winnie0906@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Computer Science,Canada,International high school,12,Xander0907@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Economy,Japan,Normal high school,Freshman,Yasmine0908@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,United States,University,Sophomore,Zach0909@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Philosophy,Canada,International high school,Junior,Alice0910@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,Japan,Normal high school,Senior,Bob0911@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Architecture,United States,University,9,Carol0912@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Canada,International high school,10,Dave0913@pku.edu.cn,FALSE,TRUE,omy
+shanxi,Computer Science,Japan,Normal high school,11,Eve0914@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,United States,University,12,Francis0915@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Sociology,Canada,International high school,Freshman,Grace0916@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Japan,Normal high school,Sophomore,Hans0917@pku.edu.cn,TRUE,FALSE,my
+shanxi,Archaeology,United States,University,Junior,Isabella0918@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Architecture,Canada,International high school,Senior,Jason0919@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Mathematics,Japan,Normal high school,9,Kate0920@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,United States,University,10,Louis0921@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Economy,Canada,International high school,11,Margraret0922@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Sociology,Japan,Normal high school,12,Nathan0923@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Philosophy,United States,University,Freshman,Olivia0924@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Canada,International high school,Sophomore,Paul0925@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Architecture,Japan,Normal high school,Junior,Queen0926@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,United States,University,Senior,Richard0927@thu.edu.cn,TRUE,FALSE,my
+shanghai,Computer Science,Canada,International high school,9,Susan0928@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Japan,Normal high school,10,Thomas0929@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Sociology,United States,University,11,Uma0930@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Philosophy,Canada,International high school,12,Vivian0931@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Archaeology,Japan,Normal high school,Freshman,Winnie0932@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,United States,University,Sophomore,Xander0933@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Mathematics,Canada,International high school,Junior,Yasmine0934@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,Japan,Normal high school,Senior,Zach0935@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Economy,United States,University,9,Alice0936@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Canada,International high school,10,Bob0937@pku.edu.cn,FALSE,TRUE,omy
+shanxi,Philosophy,Japan,Normal high school,11,Carol0938@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Archaeology,United States,University,12,Dave0939@thu.edu.cn,TRUE,TRUE,omy
+shanghai,Architecture,Canada,International high school,Freshman,Eve0940@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Japan,Normal high school,Sophomore,Francis0941@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Computer Science,United States,University,Junior,Grace0942@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Economy,Canada,International high school,Senior,Hans0943@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Sociology,Japan,Normal high school,9,Isabella0944@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,United States,University,10,Jason0945@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Archaeology,Canada,International high school,11,Kate0946@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,Japan,Normal high school,12,Louis0947@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Mathematics,United States,University,Freshman,Margraret0948@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Canada,International high school,Sophomore,Nathan0949@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Economy,Japan,Normal high school,Junior,Olivia0950@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Sociology,United States,University,Senior,Paul0951@thu.edu.cn,TRUE,FALSE,my
+shanghai,Philosophy,Canada,International high school,9,Queen0952@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Japan,Normal high school,10,Richard0953@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Architecture,United States,University,11,Susan0954@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,Canada,International high school,12,Thomas0955@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Computer Science,Japan,Normal high school,Freshman,Uma0956@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,United States,University,Sophomore,Vivian0957@pku.edu.cn,FALSE,FALSE,omy
+shanxi,Sociology,Canada,International high school,Junior,Winnie0958@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Philosophy,Japan,Normal high school,Senior,Xander0959@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Archaeology,United States,University,9,Yasmine0960@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Canada,International high school,10,Zach0961@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Mathematics,Japan,Normal high school,11,Alice0962@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,United States,University,12,Bob0963@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Economy,Canada,International high school,Freshman,Carol0964@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Japan,Normal high school,Sophomore,Dave0965@pku.edu.cn,FALSE,TRUE,omy
+shanxi,Philosophy,United States,University,Junior,Eve0966@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Archaeology,Canada,International high school,Senior,Francis0967@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Architecture,Japan,Normal high school,9,Grace0968@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,United States,University,10,Hans0969@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Computer Science,Canada,International high school,11,Isabella0970@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Economy,Japan,Normal high school,12,Jason0971@thu.edu.cn,FALSE,TRUE,my
+shanghai,Sociology,United States,University,Freshman,Kate0972@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Canada,International high school,Sophomore,Louis0973@pku.edu.cn,FALSE,TRUE,my
+shanxi,Archaeology,Japan,Normal high school,Junior,Margraret0974@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Architecture,United States,University,Senior,Nathan0975@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Mathematics,Canada,International high school,9,Olivia0976@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Japan,Normal high school,10,Paul0977@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Economy,United States,University,11,Queen0978@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Sociology,Canada,International high school,12,Richard0979@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Philosophy,Japan,Normal high school,Freshman,Susan0980@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,United States,University,Sophomore,Thomas0981@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Architecture,Canada,International high school,Junior,Uma0982@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Mathematics,Japan,Normal high school,Senior,Vivian0983@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Computer Science,United States,University,9,Winnie0984@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Canada,International high school,10,Xander0985@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Sociology,Japan,Normal high school,11,Yasmine0986@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Philosophy,United States,University,12,Zach0987@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Archaeology,Canada,International high school,Freshman,Alice0988@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Japan,Normal high school,Sophomore,Bob0989@pku.edu.cn,FALSE,TRUE,FALSE
+shanxi,Mathematics,United States,University,Junior,Carol0990@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,Canada,International high school,Senior,Dave0991@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Economy,Japan,Normal high school,9,Eve0992@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,United States,University,10,Francis0993@pku.edu.cn,FALSE,FALSE,TRUE
+shanxi,Philosophy,Canada,International high school,11,Grace0994@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Archaeology,Japan,Normal high school,12,Hans0995@thu.edu.cn,FALSE,FALSE,omy
+shanghai,Architecture,United States,University,Freshman,Isabella0996@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Canada,International high school,Sophomore,Jason0997@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Computer Science,Japan,Normal high school,Junior,Kate0998@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,United States,University,Senior,Louis0999@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Sociology,Canada,International high school,9,Margraret1000@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Japan,Normal high school,10,Nathan1001@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Archaeology,United States,University,11,Olivia1002@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Architecture,Canada,International high school,12,Paul1003@thu.edu.cn,TRUE,FALSE,FALSE
+shanghai,Mathematics,Japan,Normal high school,Freshman,Queen1004@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,United States,University,Sophomore,Richard1005@pku.edu.cn,FALSE,TRUE,my
+shanxi,Economy,Canada,International high school,Junior,Susan1006@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Sociology,Japan,Normal high school,Senior,Thomas1007@thu.edu.cn,FALSE,FALSE,my
+shanghai,Philosophy,United States,University,9,Uma1008@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Canada,International high school,10,Vivian1009@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Architecture,Japan,Normal high school,11,Winnie1010@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Mathematics,United States,University,12,Xander1011@thu.edu.cn,FALSE,TRUE,my
+shanghai,Computer Science,Canada,International high school,Freshman,Yasmine1012@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,Japan,Normal high school,Sophomore,Zach1013@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Sociology,United States,University,Junior,Alice1014@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,Canada,International high school,Senior,Bob1015@thu.edu.cn,TRUE,FALSE,TRUE
+shanghai,Archaeology,Japan,Normal high school,9,Carol1016@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,United States,University,10,Dave1017@pku.edu.cn,FALSE,TRUE,omy
+shanxi,Mathematics,Canada,International high school,11,Eve1018@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Computer Science,Japan,Normal high school,12,Francis1019@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Economy,United States,University,Freshman,Grace1020@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Canada,International high school,Sophomore,Hans1021@pku.edu.cn,FALSE,TRUE,TRUE
+shanxi,Philosophy,Japan,Normal high school,Junior,Isabella1022@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Archaeology,United States,University,Senior,Jason1023@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Architecture,Canada,International high school,9,Kate1024@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,Japan,Normal high school,10,Louis1025@pku.edu.cn,FALSE,FALSE,FALSE
+shanxi,Computer Science,United States,University,11,Margraret1026@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Economy,Canada,International high school,12,Nathan1027@thu.edu.cn,TRUE,TRUE,my
+shanghai,Sociology,Japan,Normal high school,Freshman,Olivia1028@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,United States,University,Sophomore,Paul1029@pku.edu.cn,TRUE,TRUE,TRUE
+shanxi,Archaeology,Canada,International high school,Junior,Queen1030@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Architecture,Japan,Normal high school,Senior,Richard1031@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Mathematics,United States,University,9,Susan1032@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Canada,International high school,10,Thomas1033@pku.edu.cn,FALSE,TRUE,my
+shanxi,Economy,Japan,Normal high school,11,Uma1034@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Sociology,United States,University,12,Vivian1035@thu.edu.cn,FALSE,FALSE,FALSE
+shanghai,Philosophy,Canada,International high school,Freshman,Winnie1036@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,Japan,Normal high school,Sophomore,Xander1037@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Architecture,United States,University,Junior,Yasmine1038@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Mathematics,Canada,International high school,Senior,Zach1039@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Computer Science,Japan,Normal high school,9,Alice1040@gmail.com,TRUE,TRUE,TRUE
+beijing,Economy,United States,University,10,Bob1041@pku.edu.cn,TRUE,FALSE,FALSE
+shanxi,Sociology,Canada,International high school,11,Carol1042@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Philosophy,Japan,Normal high school,12,Dave1043@thu.edu.cn,TRUE,TRUE,FALSE
+shanghai,Archaeology,United States,University,Freshman,Eve1044@gmail.com,TRUE,TRUE,TRUE
+beijing,Architecture,Canada,International high school,Sophomore,Francis1045@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Mathematics,Japan,Normal high school,Junior,Grace1046@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Computer Science,United States,University,Senior,Hans1047@thu.edu.cn,FALSE,TRUE,TRUE
+shanghai,Economy,Canada,International high school,9,Isabella1048@gmail.com,TRUE,TRUE,TRUE
+beijing,Sociology,Japan,Normal high school,10,Jason1049@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Philosophy,United States,University,11,Kate1050@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Archaeology,Canada,International high school,12,Louis1051@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Architecture,Japan,Normal high school,Freshman,Margraret1052@gmail.com,TRUE,TRUE,TRUE
+beijing,Mathematics,United States,University,Sophomore,Nathan1053@pku.edu.cn,FALSE,TRUE,omy
+shanxi,Computer Science,Canada,International high school,Junior,Olivia1054@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Economy,Japan,Normal high school,Senior,Paul1055@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Sociology,United States,University,9,Queen1056@gmail.com,TRUE,TRUE,TRUE
+beijing,Philosophy,Canada,International high school,10,Richard1057@pku.edu.cn,TRUE,FALSE,TRUE
+shanxi,Archaeology,Japan,Normal high school,11,Susan1058@hotmail.com,TRUE,TRUE,TRUE
+suzhou,Architecture,United States,University,12,Thomas1059@thu.edu.cn,FALSE,FALSE,TRUE
+shanghai,Mathematics,Canada,International high school,Freshman,Uma1060@gmail.com,TRUE,TRUE,TRUE
+beijing,Computer Science,Japan,Normal high school,Sophomore,Vivian1061@pku.edu.cn,TRUE,FALSE,my
+shanxi,Economy,United States,University,Junior,Winnie1062@hotmail.com,TRUE,FALSE,TRUE
+suzhou,Sociology,Canada,International high school,Senior,Xander1063@thu.edu.cn,TRUE,TRUE,TRUE
+shanghai,Philosophy,Japan,Normal high school,9,Yasmine1064@gmail.com,TRUE,TRUE,TRUE
+beijing,Archaeology,United States,University,10,Zach1065@pku.edu.cn,FALSE,FALSE,FALSE
